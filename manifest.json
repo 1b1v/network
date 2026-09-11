@@ -4,7 +4,7 @@
     "minSupportedVersion": "0.1.0",
     "criticalReason": "",
     "updateUrl": "https://discord.gg/5WmnrBXY9J",
-    "updateHeadline": "1b1v Lite update available: {current} → {latest}",
+    "updateHeadline": "1b1v Lite update available: <yellow>{current}</yellow> → <green>{latest}</green>",
     "updateButtonLabel": "Update",
     "criticalHeadline": "Critical issue in your version: {reason}. Update immediately.",
     "criticalButtonLabel": "Get Fixed Version"
@@ -14,7 +14,7 @@
     "minSupportedVersion": "0.1.0",
     "criticalReason": "",
     "updateUrl": "https://discord.gg/Nn43QStBS7",
-    "updateHeadline": "1b1v update available: {current} → {latest}",
+    "updateHeadline": "1b1v update available: <yellow>{current}</yellow> → <green>{latest}</green>",
     "updateButtonLabel": "Update",
     "criticalHeadline": "Critical issue in your version: {reason}. Update immediately.",
     "criticalButtonLabel": "Get Fixed Version"
