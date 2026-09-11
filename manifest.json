@@ -2,15 +2,27 @@
   "lite": {
     "latestVersion": "0.26.1",
     "minSupportedVersion": "0.1.0",
-    "downloadUrl": "https://discord.gg/5WmnrBXY9J"
+    "criticalReason": "",
+    "updateUrl": "https://discord.gg/5WmnrBXY9J",
+    "updateHeadline": "New 1b1v Lite update available: {latest} (you're on {current})",
+    "updateButtonLabel": "Get Update",
+    "criticalHeadline": "Your version has a known critical issue: {reason}. Please update immediately.",
+    "criticalButtonLabel": "Get Fixed Version"
   },
   "full": {
     "latestVersion": "0.26.1",
     "minSupportedVersion": "0.1.0",
-    "downloadUrl": "https://discord.gg/5WmnrBXY9J"
+    "criticalReason": "",
+    "updateUrl": "https://discord.gg/Nn43QStBS7",
+    "updateHeadline": "New 1b1v Full update available: {latest} (you're on {current})",
+    "updateButtonLabel": "Get Update",
+    "criticalHeadline": "Your version has a known critical issue: {reason}. Please update immediately.",
+    "criticalButtonLabel": "Get Fixed Version"
   },
   "promotion": {
     "enabled": false,
-    "url": "https://discord.gg/5WmnrBXY9J"
+    "url": "https://discord.gg/5WmnrBXY9J",
+    "headline": "Unlock the full toolkit — 12-slot Clipboard, Macros, Construct & more",
+    "buttonLabel": "See Full Edition"
   }
 }
